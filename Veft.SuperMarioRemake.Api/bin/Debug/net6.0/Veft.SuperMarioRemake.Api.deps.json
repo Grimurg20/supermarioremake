@@ -1,0 +1,327 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Veft.SuperMarioRemake.Api/1.0.0": {
+        "dependencies": {
+          "GraphQL": "7.1.1",
+          "GraphQL.Server.Ui.GraphiQL": "7.1.1",
+          "GraphQL.SystemTextJson": "7.1.1",
+          "GraphQL.Server.All": "7.1.1",
+          "GraphQL.Server.Transports.AspNetCore": "7.1.1",
+          "Veft.SuperMarioRemake.Models": "1.0.0"
+        },
+        "runtime": {
+          "Veft.SuperMarioRemake.Api.dll": {}
+        }
+      },
+      "GraphQL/7.1.1": {
+        "dependencies": {
+          "GraphQL-Parser": "8.1.0",
+          "Microsoft.CSharp": "4.7.0",
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "lib/net6.0/GraphQL.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "GraphQL-Parser/8.1.0": {
+        "runtime": {
+          "lib/net6.0/GraphQLParser.dll": {
+            "assemblyVersion": "8.1.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      },
+      "GraphQL.DataLoader/7.0.2": {
+        "dependencies": {
+          "GraphQL": "7.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.DataLoader.dll": {
+            "assemblyVersion": "7.0.2.0",
+            "fileVersion": "7.0.2.0"
+          }
+        }
+      },
+      "GraphQL.MemoryCache/7.0.2": {
+        "dependencies": {
+          "GraphQL": "7.1.1",
+          "Microsoft.Extensions.Caching.Memory": "3.1.0"
+        },
+        "runtime": {
+          "lib/net5.0/GraphQL.MemoryCache.dll": {
+            "assemblyVersion": "7.0.2.0",
+            "fileVersion": "7.0.2.0"
+          }
+        }
+      },
+      "GraphQL.MicrosoftDI/7.0.2": {
+        "dependencies": {
+          "GraphQL": "7.1.1",
+          "Microsoft.Extensions.Options": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.MicrosoftDI.dll": {
+            "assemblyVersion": "7.0.2.0",
+            "fileVersion": "7.0.2.0"
+          }
+        }
+      },
+      "GraphQL.Server.All/7.1.1": {
+        "dependencies": {
+          "GraphQL.DataLoader": "7.0.2",
+          "GraphQL.MemoryCache": "7.0.2",
+          "GraphQL.Server.Transports.AspNetCore": "7.1.1",
+          "GraphQL.Server.Ui.Altair": "7.1.1",
+          "GraphQL.Server.Ui.GraphiQL": "7.1.1",
+          "GraphQL.Server.Ui.Playground": "7.1.1",
+          "GraphQL.Server.Ui.Voyager": "7.1.1"
+        }
+      },
+      "GraphQL.Server.Transports.AspNetCore/7.1.1": {
+        "dependencies": {
+          "GraphQL.MicrosoftDI": "7.0.2",
+          "GraphQL.SystemTextJson": "7.1.1"
+        },
+        "runtime": {
+          "lib/net5.0/GraphQL.Server.Transports.AspNetCore.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "GraphQL.Server.Ui.Altair/7.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Altair.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "GraphQL.Server.Ui.GraphiQL/7.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.GraphiQL.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "GraphQL.Server.Ui.Playground/7.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Playground.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "GraphQL.Server.Ui.Voyager/7.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "GraphQL.SystemTextJson/7.1.1": {
+        "dependencies": {
+          "GraphQL": "7.1.1"
+        },
+        "runtime": {
+          "lib/net6.0/GraphQL.SystemTextJson.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.Caching.Abstractions/3.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.0"
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/3.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "3.1.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Options": "3.1.0"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/3.1.0": {},
+      "Microsoft.Extensions.Options/3.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Primitives": "3.1.0"
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.0": {},
+      "System.ComponentModel.Annotations/4.7.0": {},
+      "Veft.SuperMarioRemake.Models/1.0.0": {
+        "runtime": {
+          "Veft.SuperMarioRemake.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veft.SuperMarioRemake.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphQL/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKGvY7Uxi13YmWoegcLpm3saDfkTPM+bCiXYaETQZBdwUX2CAwJpgcZG4Bl5PM0GiZLX+bbZRkyyPjJt89M48A==",
+      "path": "graphql/7.1.1",
+      "hashPath": "graphql.7.1.1.nupkg.sha512"
+    },
+    "GraphQL-Parser/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tGSA8V7iqgHLcyyeZwUsElbboKFqNLerewExyCsDqCqCexM50ktx5lBMXwPJjt0QFX0aI5H/HmJLyiQdFnx/cg==",
+      "path": "graphql-parser/8.1.0",
+      "hashPath": "graphql-parser.8.1.0.nupkg.sha512"
+    },
+    "GraphQL.DataLoader/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNuQ6py4nOMT4gHMhy1eio8FCBpOwEpB6OuhsQuylo6oGtyZ0XbLYFQMawkM6gCLMTBEr9RbOoDBj9JCBhUebw==",
+      "path": "graphql.dataloader/7.0.2",
+      "hashPath": "graphql.dataloader.7.0.2.nupkg.sha512"
+    },
+    "GraphQL.MemoryCache/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zBRNPVWZc+Zf1ffMR3kp5jLjbMvipNfFPG+SXR6NLFQSI62ExC1aCVwhLTQOkqJg9C6zsYTKvVdHfrtZK19QFg==",
+      "path": "graphql.memorycache/7.0.2",
+      "hashPath": "graphql.memorycache.7.0.2.nupkg.sha512"
+    },
+    "GraphQL.MicrosoftDI/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XtjYn4NyoKcUXA0TbYXdMPuJzQgNQChBstv1msrQ2vMsf2G7NrWaXnVk3abq/0Ci72lnx+i8JSLKBdXozfr3Ww==",
+      "path": "graphql.microsoftdi/7.0.2",
+      "hashPath": "graphql.microsoftdi.7.0.2.nupkg.sha512"
+    },
+    "GraphQL.Server.All/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GDd13MzLTpN4SfVvUESltJ+SDCrKxMkN4Vf/ltAFMLX01C+qNm0knmQBMZbtpZUwrKSvinCv1WNuBh4pGWXG0Q==",
+      "path": "graphql.server.all/7.1.1",
+      "hashPath": "graphql.server.all.7.1.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Transports.AspNetCore/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6/SnY9XxVJ3dlkHnxOIAldi8jg0OIDg8KZ3TEewggMSetmiLIe4gvfir79R0R0nHpa/cg0GIDNXw3oh5AgOTGQ==",
+      "path": "graphql.server.transports.aspnetcore/7.1.1",
+      "hashPath": "graphql.server.transports.aspnetcore.7.1.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.Altair/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FNJfLyO0f6vKfn3uCTjuIk6J/KZ3pMF14L35GZ0SgYZcHozErouvBUvzOOAwiMbkBwhSrDWapXHYjqxrStmpRQ==",
+      "path": "graphql.server.ui.altair/7.1.1",
+      "hashPath": "graphql.server.ui.altair.7.1.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.GraphiQL/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BkjJuTV3aAh+BgV6JZJkJxtC//Vb0oQhP2vz6NJecNWTLdVmtMVJS6juJRnUcvDUSf1DHbWy0FYBvF1GrkZ9Xw==",
+      "path": "graphql.server.ui.graphiql/7.1.1",
+      "hashPath": "graphql.server.ui.graphiql.7.1.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.Playground/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tGkfKLBW/MHjTbXzmOWlhNoUJS72hg0bLJA2iPhjR+DvSOuFq87KZkhn2w+wvOGkNpPM8Wrmjoh7HELAuGvYig==",
+      "path": "graphql.server.ui.playground/7.1.1",
+      "hashPath": "graphql.server.ui.playground.7.1.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.Voyager/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eQF/u/4EVBkax53w3KcSDhEm7bApfJcpgAR7glQ293KFGpsnCAY3ZYnKQUh9lGCns69eNFye7QWZBxRMvrxANw==",
+      "path": "graphql.server.ui.voyager/7.1.1",
+      "hashPath": "graphql.server.ui.voyager.7.1.1.nupkg.sha512"
+    },
+    "GraphQL.SystemTextJson/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QyUycsvuQIn9pGY8puPrK3BTKLL6YDq0Yo+uyymCxnPaH0tn0cfngc4F6qWEeJuWz0JxIopxQsaIF8NW7TmGGQ==",
+      "path": "graphql.systemtextjson/7.1.1",
+      "hashPath": "graphql.systemtextjson.7.1.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Abstractions/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+R7REEI+Pks1/ITjDdvey+QJzIG3tIYOtrv4RT40UVVe2Y1Sa8pIjJy3MzPZbyXVgOFN3JHFz1UZH8kz04aa5A==",
+      "path": "microsoft.extensions.caching.abstractions/3.1.0",
+      "hashPath": "microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SWVYYFN8K4bUEZAwVbcdxjApYE7JtbjPXIqsQt/vKE243u0qeDuS7bA5hKVr+k5lo2R+BpITe6Mvqmkus2xDRQ==",
+      "path": "microsoft.extensions.caching.memory/3.1.0",
+      "hashPath": "microsoft.extensions.caching.memory.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-44rDtOf1JXXAFpNT2EXMExaDm/4OJ2RXOL9i9lE4bK427nzC7Exphv+beB6IgluyE2GIoo8zezTStMXI7MQ8WA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jjo4YXRx6MIpv6DiRxJjSpl+sPP0+5VW0clMEdLyIAz44PPwrDTFrd5PZckIxIXl1kKZ2KK6IL2nkt0+ug2MQg==",
+      "path": "microsoft.extensions.logging.abstractions/3.1.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9b6JHY7TAXrSfZ6EEGf+j8XnqKIiMPErfmaNXhJYSCb+BUW2H4RtzkNJvwLJzwgzqBP0wtTjyA6Uw4BPPdmkMw==",
+      "path": "microsoft.extensions.options/3.1.0",
+      "hashPath": "microsoft.extensions.options.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LEKAnX7lhUhSoIc2XraCTK3M4IU/LdVUzCe464Sa4+7F4ZJuXHHRzZli2mDbiT4xzAZhgqXbvfnb5+CNDcQFfg==",
+      "path": "microsoft.extensions.primitives/3.1.0",
+      "hashPath": "microsoft.extensions.primitives.3.1.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    },
+    "Veft.SuperMarioRemake.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

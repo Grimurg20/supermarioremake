@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vm4W8FBhwXP24HwKKvaoFf/xY377/XvnSYZ6arjpqTMxZJtkig9IOVX0jx2f7/MTW1tNhce2mgI1JaIcw6C5xA==",
+  "success": true,
+  "projectFilePath": "/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Api/Veft.SuperMarioRemake.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/grimurvalur/.nuget/packages/graphql/7.1.1/graphql.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql-parser/8.1.0/graphql-parser.8.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.dataloader/7.0.2/graphql.dataloader.7.0.2.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.memorycache/7.0.2/graphql.memorycache.7.0.2.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.microsoftdi/7.0.2/graphql.microsoftdi.7.0.2.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.server.all/7.1.1/graphql.server.all.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.server.transports.aspnetcore/7.1.1/graphql.server.transports.aspnetcore.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.server.ui.altair/7.1.1/graphql.server.ui.altair.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.server.ui.graphiql/7.1.1/graphql.server.ui.graphiql.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.server.ui.playground/7.1.1/graphql.server.ui.playground.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.server.ui.voyager/7.1.1/graphql.server.ui.voyager.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/graphql.systemtextjson/7.1.1/graphql.systemtextjson.7.1.1.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.0/microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.extensions.caching.memory/3.1.0/microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/grimurvalur/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

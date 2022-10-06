@@ -1,0 +1,12 @@
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.csproj.AssemblyReference.cache
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.AssemblyInfoInputs.cache
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.AssemblyInfo.cs
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.csproj.CoreCompileInputs.cache
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/bin/Debug/net6.0/Veft.SuperMarioRemake.Models.deps.json
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/bin/Debug/net6.0/Veft.SuperMarioRemake.Models.dll
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/bin/Debug/net6.0/Veft.SuperMarioRemake.Models.pdb
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.dll
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/refint/Veft.SuperMarioRemake.Models.dll
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/Veft.SuperMarioRemake.Models.pdb
+/Users/grimurvalur/Desktop/VEFT.SUPERMARIOREMAKE/Veft.SuperMarioRemake.Models/obj/Debug/net6.0/ref/Veft.SuperMarioRemake.Models.dll
